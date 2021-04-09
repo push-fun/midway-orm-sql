@@ -1,0 +1,6 @@
+"use strict";
+module.exports = {
+    // TypeORM
+    orm: {}
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29uZmlnLnByb2QuanMiLCJzb3VyY2VSb290IjoiL1VzZXJzL1F1bi9VbmNsdXR0ZXIvbWlkd2F5LWxlcm5hL3BhY2thZ2VzL21pZHdheS1vcm0tc3FsL3NyYy8iLCJzb3VyY2VzIjpbImNvbmZpZy9jb25maWcucHJvZC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEsaUJBQVM7SUFDTCxVQUFVO0lBQ1YsR0FBRyxFQUFFLEVBQUU7Q0FDVixDQUFBIn0=
